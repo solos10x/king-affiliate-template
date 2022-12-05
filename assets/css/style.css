@@ -817,7 +817,8 @@ button.bg-danger:hover {
 	padding: 0;
 }
 .main-nav > li.active > a {
-	color: #F66962;
+	color:  #D4AF37;
+	
 }
 .main-nav > li .submenu li a {
     display: block;
@@ -855,7 +856,7 @@ button.bg-danger:hover {
 .logo {
     display: inline-block;
     margin-right: 30px;
-    width: 160px;
+    width: 80px;
 }
 .header-navbar-rht {
     margin: 0;
@@ -921,8 +922,8 @@ button.bg-danger:hover {
 	border-radius: 0 0 5px 5px;
 }
 .header-navbar-rht li a.header-login:hover {
-    background-color: #f6697b;
-    border-color: #f6697b;
+    background-color: #4A0404;
+    border-color:  #4A0404;
     color: #fff;
 }
 .header-navbar-rht li a.header-login {
@@ -933,19 +934,20 @@ button.bg-danger:hover {
     text-transform: capitalize;
     font-weight: 500;
 	min-width: 150px;
-	border: 3px solid #B4A7F5;
+	border: 3px solid  #D4AF37;
 	padding: 10px 15px;
 }
 .header-navbar-rht li a.header-sign {
 	min-width: 150px;
 	padding: 14px 15px;
-	background: rgb(241 241 241 / 42%);
+	background:  #4A0404;
+color: #ffffff;
 	border-radius: 46.9159px;
 	text-align: center;
 }
 .header-navbar-rht li a.header-sign:hover {
-	background-color: #f6697b;
-    border-color: #f6697b;
+	background-color: #D4AF37;
+    border-color:#D4AF37;
     color: #fff;
 }
 .add-header-bg .header-navbar-rht li a.header-sign {
